@@ -1,4 +1,3 @@
-//your JS code here. If required.
 const container = document.getElementById('container');
 const colors = ['#e74c3c', '#8e44ad', '#3498db', '#1abc9c', '#f39c12', '#2ecc71'];
 const SQUARES = 800;
